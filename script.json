@@ -7,7 +7,7 @@
     "I'M HERE FOR THE BOT": "AH, well I can help you with that! Want me to send you a link on how to make one? %[Send me a Link](postback:send_me_a_link) %[Nevermind](postback:nevermind)",
     "SEND ME A LINK": "Sure thing! Go here http://bit.ly/1OiDz5r that is where Omega Ra learned!",
     "NEVERMIND": "Ok, click more to start over. %[More](postback:More)",
-    "MORE": (postback:Bot),
+    "MORE": "OK (postback:Bot)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, OmegaRaBot is back."
 }
