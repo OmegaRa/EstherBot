@@ -4,7 +4,7 @@
     "TELL HIM": "Let's tweet @ OmegaRa so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet OmegaRa](http://bit.ly/1YmbwCv)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "HOW ARE YOU": "Not too bad, how about you?",
-    "I'M HERE FOR THE BOT": "AH, well I can help you with that!\nWant me to send you a link on how to make one? %[Send me a Link](postback:send_you_a_link),
+    "I'M HERE FOR THE BOT": "AH, well I can help you with that! Want me to send you a link on how to make one? %[Send me a Link](postback:send_you_a_link),
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, OmegaRaBot is back."
 }
