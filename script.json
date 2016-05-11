@@ -3,6 +3,7 @@
     "HELLO": "Hey, I'm so glad you set OmegaRaBot up! Do you want to tell Omega Ra that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ OmegaRa so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet OmegaRa](http://bit.ly/1YmbwCv)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "HOW ARE YOU": "Not too bad, how about you?"
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, OmegaRaBot is back."
 }
