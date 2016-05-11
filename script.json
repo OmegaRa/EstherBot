@@ -6,8 +6,8 @@
     "HOW ARE YOU": "Not too bad, how about you?",
     "I'M HERE FOR THE BOT": "AH, well I can help you with that! \nWant me to send you a link on how to make one? %[Send me a Link](postback:send_me_a_link) %[Nevermind](postback:nevermind)",
     "SEND ME A LINK": "Sure thing! Go here http://bit.ly/1OiDz5r that is where Omega Ra learned!",
-    "NEVERMIND": "Ok, no problem, click more to start over! %[More](postback:bot)",
-    "A RANDOM FACT": "Omega Ra likes to tinker with electronics and technology in general! %[Neat what else](postback:what_else)",
+    "NEVERMIND": "Ok, no problem, click more to start over! %[More](postback:how_are_you)",
+    "RANDOM FACT": "Omega Ra likes to tinker with electronics and technology in general! %[Neat what else!](postback:neat_what_else)",
     "NEAT WHAT ELSE": "His favorite type of classical music is Strings.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, OmegaRaBot is back."
