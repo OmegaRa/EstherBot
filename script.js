@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I didn't understand that.`).then(() => 'speak');
+                    return bot.say(`I'm sorry, my responses are limited. You must ask the right questions.`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
