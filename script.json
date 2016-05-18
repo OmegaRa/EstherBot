@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\n I’m the personal bot of Omega Ra.\n![esther](https://raw.githubusercontent.com/OmegaRa/EstherBot/master/img/Omegaavvy.jpg)\nWant to know more about bots or learn about OmegaRa? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Omega Ra](postback:learn_about_omega_ra) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\n I’m the personal bot of Omega Ra.\n![OmegaRa](https://raw.githubusercontent.com/OmegaRa/EstherBot/master/img/Omegaavvy.jpg)\nWant to know more about bots or learn about OmegaRa? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Omega Ra](postback:learn_about_omega_ra) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set OmegaRaBot up! Do you want to tell Omega Ra that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ OmegaRa so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet OmegaRa](http://bit.ly/1YmbwCv)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
